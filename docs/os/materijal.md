@@ -8,4 +8,4 @@ videi
 prezentacije
 ---
 
-- [**cs**](https://cs.elfak.ni.ac.rs/nastava/)
+- [**cs elfak**](https://cs.elfak.ni.ac.rs/nastava/)
