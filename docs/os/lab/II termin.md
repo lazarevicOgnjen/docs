@@ -163,11 +163,11 @@ fgets(buff, MAX_BUFF, f2);
 
 int main(int argc, char* argv[]){
 
-char buff[MAX_BUFF];
+  char buff[MAX_BUFF];
 
-for(int i=0; i<MAX_BUFF; i++){
+  for(int i=0; i<MAX_BUFF; i++){
     buff[i] = '\0';
-}
+  }
 
 }
 
