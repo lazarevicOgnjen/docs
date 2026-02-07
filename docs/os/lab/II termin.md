@@ -135,7 +135,7 @@ fscanf(f, "%s", buff);
 
 ```
 
-> **citamo ceo sadrzaj**
+> **citamo ceo sadrzaj velicine MAX_BUFF**
 
 ```c
 
