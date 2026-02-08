@@ -16,7 +16,7 @@
 **komitovanje**
 ---
 
-- `git add *`
+- `git add .`
 - `git status`
 - `git commit -m "Gotov kolokvijum"`
   
