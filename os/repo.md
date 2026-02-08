@@ -17,6 +17,7 @@
 ---
 
 - `git add *`
+- `git status`
 - `git commit -m "Gotov kolokvijum"`
   
 > **nakon ovog koraka terminal moze da izbaci -** <mark>"Author identity unknown"</mark> <br>
