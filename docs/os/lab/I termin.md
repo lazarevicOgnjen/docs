@@ -13,7 +13,7 @@
 
 **`mv test test1`** - promeniti ime direktorijuma **test** u **test1**
 
-<br>
+<br><br>
 
 > **fajlovi**
 
