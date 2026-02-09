@@ -1,3 +1,8 @@
+**Kreiranje virtualne mašine**
+---
+
+<br>
+
 <img width="1148" height="697" alt="image" src="https://github.com/user-attachments/assets/a95cbf4f-6c16-4da4-bf37-52be3e8f1b6d" />
 
 <img width="1156" height="703" alt="image" src="https://github.com/user-attachments/assets/b18790a9-c2c1-44a8-aa54-f4c717f31a0c" />
