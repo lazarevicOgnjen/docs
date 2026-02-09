@@ -172,9 +172,9 @@ int main() {
 
 🚨 **BITNO**
 
-komunikacija moze da se uspostavi preko:
-1. datavoda
-2. signala
+komunikacija moze da se uspostavi preko: <br>
+1. datavoda <br>
+2. signala <br>
 3. deljene memorije
 
 <br>
@@ -291,6 +291,7 @@ int main() {
 }
 
 ```
+
 
 
 
