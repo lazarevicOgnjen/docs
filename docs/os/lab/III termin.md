@@ -119,7 +119,10 @@ int main() {
 }
 
 ```
+<br>
+
 ovde mozemo da koristimo i petlju
+
 ```c
 
 #include <stdio.h>
@@ -288,6 +291,7 @@ int main() {
 }
 
 ```
+
 
 
 
