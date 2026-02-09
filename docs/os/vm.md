@@ -1,5 +1,4 @@
 **Kreiranje virtualne mašine**
----
 
 <br>
 
