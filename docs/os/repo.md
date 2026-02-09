@@ -11,7 +11,7 @@
 - `cd KOL1`
 - `code .`
 
-<br>
+<br><br>
 
 **komitovanje**
 ---
