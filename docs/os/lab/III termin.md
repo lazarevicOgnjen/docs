@@ -3,7 +3,7 @@
 
 <br>
 
-> 🚨 **BITNO**
+🚨 **BITNO**
 
 - novi proces dobijamo tako sto **dupliramo postojeci**
 - korisitmo **fork**
@@ -45,6 +45,7 @@ switch( cpid=fork() ){
 }
 
 ```
+
 
 
 
