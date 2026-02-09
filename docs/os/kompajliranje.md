@@ -15,7 +15,7 @@ gcc zadatak.c -o z -pthread
 
 ```
 
-<br>
+<br><br>
 
 **run-ovanje fajla**
 ---
