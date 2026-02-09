@@ -26,7 +26,7 @@
 **fork**
 ---
 
-- kreiramo novi proces
+kreiramo novi proces
 ```c
 
 pid_t fork();
@@ -94,6 +94,6 @@ pid_t getpid();
 PID roditeljskog procesa
 ```c
 pid_t getppid();
-
+```
 
 
