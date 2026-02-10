@@ -17,8 +17,8 @@ Mozemo podesiti da neki **odredjeni signal bude ignorisan.**
 🚨  **BITNO**
 
 Mozemo koristiti samo postojece signale kao sto su: <br>
-- SIGINT
-- SIGTSTP
+- SIGINT <br>
+- SIGTSTP <br>
 - SIGALRM
 
 <br><br>
