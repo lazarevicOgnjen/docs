@@ -1,9 +1,9 @@
-> **Signali i redovi poruka**
+**Signali**
+---
 
 <br>
 
 **Definicija signali**
----
 
 Signali su mehanizam koji se koristi kako bi se proces **obavestio o pojavi** nekog asinhronog dogadjaja.
 
@@ -153,6 +153,8 @@ struct mymsgbuf{
 **Primer za poruke**
 ---
 
+- Roditelj salje rec detetu
+
 ```
 
 #include <stdio.h>
@@ -210,9 +212,15 @@ int main(){
 
 ```
 
+<br>
+
+- Korišćenjem programskog jezika C napisati UNIX/Linux programkoji učitava podatke iz tekstualne datoteke cela (red po red) i zatim korišćenjem reda poruka sve parne redove šalje procesu koji konvertuje sva slova u velika i zapisuje ih u datoteku polal, a sve neparne redove procesu koji konvertuje sva slova u mala i zapisuje ih u datoteku pola2.
+
+```
 
 
 
+```
 
 
 
