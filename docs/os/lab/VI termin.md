@@ -23,7 +23,8 @@ Mozemo koristiti samo postojece signale kao sto su: <br>
 
 <br><br>
 
-**Primeri**
+**Primer za signale**
+---
 
 > ALARM
 ```
