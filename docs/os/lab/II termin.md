@@ -26,7 +26,7 @@ int main(int argc, char* argv[]){
 
 > **ASCII to float**
 
-```
+```c
 
 tmp = atof(argv[i]);
 
