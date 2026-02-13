@@ -11,7 +11,11 @@
 | 7. Networks (can connect) \_\_\_\_\_\_\_ via satellite.                                                                              | **can be connected**   |
 | 8. I had to use my laptop this morning while my PC (fix) \_\_\_\_\_\_\_.                                                             | **was being fixed**    |
 
-<br>
+
+---
+---
+
+
 
 <img width="757" height="357" alt="{4D9B9C95-C71C-4E19-9DB9-13F6A3B07CBA}" src="https://github.com/user-attachments/assets/3ae3451b-e450-40a2-963e-86879c32a69b" />
 
