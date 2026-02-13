@@ -32,7 +32,7 @@ Mozemo koristiti samo postojece signale kao sto su: <br>
 ---
 
 > ALARM
-```
+```c
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -69,7 +69,7 @@ int main(int argc, char* argv[]){
 
 ako bismo opet postavili alarm on bi se 'resetovao' na tu novu vrednost, tako da bi ovaj program ispod cekao manje od 5 sekundi
 
-```
+```c
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -126,7 +126,7 @@ Svaka poruka ima isti oblik:
 **Biblioteke**
 ---
 
-```
+```c
 
 #include <sys/ipc.h>
 #include <sys/msg.h>
@@ -138,7 +138,7 @@ Svaka poruka ima isti oblik:
 **Struktura poruke**
 ---
 
-```
+```c
 
 struct mymsgbuf{
 
@@ -173,7 +173,7 @@ msgget(key, flags)
 
 - Roditelj salje rec detetu
 
-```
+```c
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -230,15 +230,8 @@ int main(){
 
 ```	   
 
-<br>
-
-- Korišćenjem programskog jezika C napisati UNIX/Linux program koji učitava podatke iz tekstualne datoteke cela (red po red) i zatim korišćenjem reda poruka sve parne redove šalje procesu koji konvertuje sva slova u velika i zapisuje ih u datoteku pola1, a sve neparne redove procesu koji konvertuje sva slova u mala i zapisuje ih u datoteku pola2.
-
-```
 
 
-
-```
 
 
 
